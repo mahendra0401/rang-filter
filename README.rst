@@ -1,15 +1,9 @@
-.. image:: https://travis-ci.org/silentsokolov/django-admin-rangefilter.svg?branch=master
-   :target: https://travis-ci.org/silentsokolov/django-admin-rangefilter
-
-.. image:: https://codecov.io/gh/silentsokolov/django-admin-rangefilter/branch/master/graph/badge.svg
-   :target: https://codecov.io/gh/silentsokolov/django-admin-rangefilter
-
 django-admin-rangefilter
 ========================
 
 django-admin-rangefilter app, add the filter by a custom date / datetime range on the admin UI.
 
-.. image:: https://raw.githubusercontent.com/silentsokolov/django-admin-rangefilter/master/docs/images/screenshot.png
+.. image:: https://raw.githubusercontent.com/mahendra0401/test/master/docs/images/screenshot.png
 
 
 Requirements
